@@ -13,7 +13,7 @@
 .left-column, .middle-column, .right-column {
     flex: 0 0 auto;
     width: 30%;
-    margin-left: 50px;
+    margin-left: 30px;
     padding-top: 20px;
 }
 
@@ -23,8 +23,9 @@
     background-color: yellow;
     padding: 20px;
     border-radius: 10px;
-    margin-left: 200px;
+    margin-left: 150px;
     margin-top: 10px;
+    margin-right: 20px;
 }
 
 .story {
@@ -43,8 +44,3 @@
     cursor: pointer;
 }
 
-.voices-wrapper {
-    text-align: center; /* Center align the content */
-    /* margin-bottom: 20px;  */
-    margin-left: 200px;
-}
